@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security and Machine Language 
 - 🌱 I’m currently learning Phishing 
 - 💞️ I’m looking to collaborate on  cyber security 
-- 📫 How to reach me :edwinchukwudi@gmail.com
+- 📫 How to reach me :edwinchukwudi25@gmail.com
 
 <!---
 MayorChar/MayorChar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
